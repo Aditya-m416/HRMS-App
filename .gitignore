@@ -1,0 +1,10 @@
+node_modules/
+dist/
+frontend/dist/
+.env
+backend/.env
+frontend/.env
+data/*.sqlite
+data/*.sqlite-*
+backend/data/*.sqlite
+backend/data/*.sqlite-*

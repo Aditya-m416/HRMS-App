@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#B03525"/>
+  <!-- Stylized R mark -->
+  <g fill="white">
+    <!-- Vertical stem -->
+    <rect x="10" y="10" width="6" height="28" rx="2"/>
+    <!-- Top arch of R -->
+    <path d="M16 10 Q36 10 36 20 Q36 30 16 30" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+    <!-- Leg of R -->
+    <line x1="22" y1="28" x2="36" y2="38" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
